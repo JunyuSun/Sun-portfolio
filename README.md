@@ -9,3 +9,5 @@ Data is critical in this era, but it can also be difficult to understand. Data v
 
 # Portfolio
 Here is my assignments and final project!
+
+[2019 Government Debt](/dataviz2.md)
