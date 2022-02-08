@@ -1,10 +1,10 @@
 # Assignment 3 & 4: Critique by Design
 ## Step one: Find a data visualization
-
+![Original Visualization](original.png)
 ## Step two: Critique the data visualization
 
 ## Step three: Wireframe a solution
-
+![My Sketch](sketch.png)
 ## Step four: Test the solution
 
 ## Step five: Build your solution
