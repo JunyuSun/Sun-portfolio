@@ -13,4 +13,7 @@ Here is my assignments and final project!
 [2019 Government Debt](/dataviz2.md)
 
 
-[Tableau](/Tableau.md)
+[Tableau Test](/Tableau.md)
+
+
+[Critique by Design](/Critique by Design.md)
