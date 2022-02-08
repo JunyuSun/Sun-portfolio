@@ -16,4 +16,4 @@ Here is my assignments and final project!
 [Tableau Test](/Tableau.md)
 
 
-[Critique by Design](/Critique by Design.md)
+[Critique by Design](/Critique_by_Design.md)
