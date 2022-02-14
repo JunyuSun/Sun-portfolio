@@ -2,7 +2,7 @@
 ## Outline
 Sneakers are very cool, and I hope to introduce everyone to the current situation of the sneaker market. A lot of sneakers have crazy prices, and I hope I can tell people about the reasons why sneakers are overpriced (e.g. consumerism and hype) through my project. Also, through this project I want to explore the relationship between performance and price which will help people have a rational consumption mindset.
 ## Sketches
-
+![Final Project sketches](final_sketches.jpg)
 ## Data
 There are many sneaker trading sites where data is available, such as ebay, stockx, goat, etc. There are also some websites that scrape and integrate these contents.
 
