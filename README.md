@@ -17,3 +17,6 @@ Here is my assignments and final project!
 
 
 [Critique by Design](/Critique_by_Design.md)
+
+## Final Project
+[Final Project Part 1](/final_project_Junyu.md)
