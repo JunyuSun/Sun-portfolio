@@ -1,0 +1,19 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+exclude:
+
+theme: null
+
+collections:
+  tests:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: tests
+    values:
+      layout: null
+      permalink: /tests/:name
