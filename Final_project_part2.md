@@ -10,8 +10,8 @@ Since the main target group of sneaker culture is young people, and my reason fo
 All my interviewees were my schoolmates, and all of them are at the same age as my target audience. According to the data, males are the main group of sneaker consumers, but I also interviewed some females in order to get a different perspective. Also, sneaker culture is understood differently in different countries' cultural backgrounds and economic environments, so I interviewed students from both the United States and China.
 
 #### c. Interview script
-| Questions | Interviewee1 | Interviewee2 | Interviewee3 |
 
+| Questions | Interviewee1 | Interviewee2 | Interviewee3 |
 | ------ | ------ | ------ | ------ |
 | After looking at the data, do you think you got anything out of it? | I know a bit about this market and I have collected some sneakers. You succeeded in showing the most special aspects of this market, and I think the last part about performance might be useful for my future sneaker selection. | I may not have been aware of the influence of various media on my consumer choices before. When I needed something related to sports, I probably always unconsciously chose Nike. | I don't think I ever imagined this market would get this big, and there are a lot of related sites that will go to support its development. |
 | Do you think the visualizations in this presentation will help you understand the data? | Many charts could give me the information I need, but I think there are probably too few pictures of the sneakers, and some of the charts may lack contrast. | The numbers in all the plots could be bigger, I think it would work better | It's very interesting that you tried a lot of different charts, but I probably hope you can unify their styles, such as their color schemes. |
