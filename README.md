@@ -22,3 +22,5 @@ Here is my assignments and final project!
 [Final Project Part 1](/Final_project_part1.md)
 
 [Final Project Part 2](/Final_project_part2.md)
+
+[Final Project Part 2](/Final_project_part3.md)
