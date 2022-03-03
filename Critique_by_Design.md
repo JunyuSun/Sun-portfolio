@@ -32,3 +32,5 @@ After taking all the feedbacks into account, I created this visualization using 
 I think the biggest change is the elimination of the shape of the violin plot. I originally thought it was a very professional way to show the distribution of a data. But I found it too professional to be understandable. Therefore I simply used each circle to represent the distribution of the data. I adjusted the transparency of each circle so that when the circles are overlapped, it also shows the density distribution of the data.
 
 However, I think there are still improvements that can be made to this visualization due to the limitations of my use of Flourish. First of all, I would like the legend to be vertical, so that it is in the same direction as the colors in the plot. Secondly, I think there are too many axes in the image, which makes it hard to pay attention to the trend visually. Lastly, I would like to add some changes in the shape of the circles where there is a high degree of overlap, so that the contrast between the months can be made.
+
+:arrow_left: Back to [Home Page](https://junyusun.github.io/Sun-portfolio/)
