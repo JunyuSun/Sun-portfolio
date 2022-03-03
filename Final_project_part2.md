@@ -1,4 +1,11 @@
 # Final Project Part2
+
+:arrow_left: Back to [Home Page](https://junyusun.github.io/Sun-portfolio/)
+
+:arrow_left: [Part 1](Final_project_part1.md)
+
+:arrow_right: [Part 3](Final_project_part3.md)
+
 ## Wireframes and storyboards
 <iframe src="https://preview.shorthand.com/nUxrxkLPEKWO1Q7J" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 
