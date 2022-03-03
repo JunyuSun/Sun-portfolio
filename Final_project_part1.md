@@ -1,4 +1,11 @@
 # Final Project Part 1
+
+:arrow_left: Back to [Home Page](https://junyusun.github.io/Sun-portfolio/)
+
+:arrow_right: [Part 2](Final_project_part2.md)
+
+:arrow_right: [Part 3](Final_project_part3.md)
+
 ## Outline
 Sneakers are very cool, and I hope to introduce everyone to the current situation of the sneaker market. A lot of sneakers have crazy prices, and I hope I can tell people about the reasons why sneakers are overpriced (e.g. consumerism and hype) through my project. Also, through this project I want to explore the relationship between performance and price which will help people have a rational consumption mindset.
 ## Sketches
