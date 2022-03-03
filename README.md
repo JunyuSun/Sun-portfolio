@@ -10,13 +10,10 @@ Data is critical in this era, but it can also be difficult to understand. Data v
 # Portfolio
 Here is my assignments and final project!
 
-[2019 Government Debt](/dataviz2.md)
+## Assignments 
+[Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
-
-[Tableau Test](/Tableau.md)
-
-
-[Critique by Design](/Critique_by_Design.md)
+[Assignment 3 & 4: Critique by Design](/Critique_by_Design.md)
 
 ## Final Project
 [Final Project Part 1](/Final_project_part1.md)
