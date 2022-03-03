@@ -1,11 +1,12 @@
 # Final Project Part3
 Here is the final site: [Crazy Sneakers](https://carnegiemellon.shorthandstories.com/crazy-sneakers/index.html)
 
-:arrow_right: Back to [Home Page](https://junyusun.github.io/Sun-portfolio/)
+:arrow_left: Back to [Home Page](https://junyusun.github.io/Sun-portfolio/)
 
-:arrow_right: [Part 1](Final_project_part1.md)
+:arrow_left: [Part 1](Final_project_part1.md)
 
-:arrow_right: [Part 2](Final_project_part2.md)
+:arrow_left: [Part 2](Final_project_part2.md)
+
 ## Intended audience
 I interviewed three schoolmates in Part 2. At that time, I chose some young people as my target audience, considering that my topic was mainly about sneakers which is a pop culture. But as I went deeper and tried to elaborate on the story, I thought the story should be told to young consumers who have less knowledge about sneakers. Because this presentation is relatively short in time, the content can be limited, for people who are already a " sneakerhead " there is no more information that he or she can refer to. But at the same time, the intended audience is also a potential sneaker consumer group, so that my call to action will have a real impact on this group.
 
